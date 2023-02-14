@@ -1,0 +1,13 @@
+canvas
+{
+    border-style: solid;
+    border-color: red;
+    border-width: 2px;
+}
+
+#roblox_img
+{
+    position: center;
+    height: 30px;
+    width: 30px;
+}
